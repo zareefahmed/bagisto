@@ -94,6 +94,7 @@ http(s)://example.com
 1. composer create-project bagisto/bagisto
 ~~~
 
+
 ~~~
 2. php artisan bagisto:install
 ~~~
